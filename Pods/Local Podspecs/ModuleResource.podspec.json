@@ -1,0 +1,27 @@
+{
+  "name": "ModuleResource",
+  "version": "0.0.1",
+  "summary": "资源模块",
+  "description": "图片与colorSet",
+  "homepage": "https://github.com/2NU71AN9/SLModularisation-ModuleResource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2UN7": "1491859758@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/2NU71AN9/SLModularisation-ModuleResource.git"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "ModuleResource/R.generated.swift",
+  "resources": "ModuleResource/*.xcassets",
+  "dependencies": {
+    "R.swift": [
+
+    ]
+  }
+}

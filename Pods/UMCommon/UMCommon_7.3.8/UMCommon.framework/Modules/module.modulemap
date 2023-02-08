@@ -1,0 +1,6 @@
+framework module UMCommon {
+    header "MobClick.h"
+    header "UMCommon.h"
+    header "UMConfigure.h"
+    export *
+}

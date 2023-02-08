@@ -1,0 +1,4 @@
+framework module UMDevice {
+    header "UMZid.h"
+    export *
+}

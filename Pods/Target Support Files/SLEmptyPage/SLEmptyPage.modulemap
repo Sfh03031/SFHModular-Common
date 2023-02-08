@@ -1,0 +1,6 @@
+framework module SLEmptyPage {
+  umbrella header "SLEmptyPage-umbrella.h"
+
+  export *
+  module * { export * }
+}

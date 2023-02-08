@@ -1,0 +1,6 @@
+framework module ModuleResource {
+  umbrella header "ModuleResource-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,8 @@
+framework module UMPush {
+    header "UMPushAdSdk.h"
+    header "UMPushNativeAd.h"
+    header "UMPushNativeAdDataModel.h"
+    header "UMPushNativeAdView.h"
+    header "UMessage.h"
+    export *
+}

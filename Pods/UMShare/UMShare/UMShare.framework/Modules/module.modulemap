@@ -1,0 +1,18 @@
+framework module UMShare {
+    header "UMCommonLogMacros.h"
+    header "UMShare.h"
+    header "UMShareLink.h"
+    header "UMSocialCoreImageUtils.h"
+    header "UMSocialDataManager.h"
+    header "UMSocialGlobal.h"
+    header "UMSocialHandler.h"
+    header "UMSocialImageUtil.h"
+    header "UMSocialManager.h"
+    header "UMSocialMessageObject.h"
+    header "UMSocialPlatformConfig.h"
+    header "UMSocialPlatformProvider.h"
+    header "UMSocialResponse.h"
+    header "UMSocialWarterMarkConfig.h"
+    header "UMSociallogMacros.h"
+    export *
+}

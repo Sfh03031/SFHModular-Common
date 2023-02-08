@@ -1,0 +1,7 @@
+framework module UShareUI {
+    header "UMSocialShareUIConfig.h"
+    header "UMSocialUIManager.h"
+    header "UMSocialUIUtility.h"
+    header "UShareUI.h"
+    export *
+}

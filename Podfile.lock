@@ -1,0 +1,172 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Aspects (1.4.1)
+  - Bugly (2.5.93)
+  - CTMediator (46)
+  - FSPagerView (0.8.3)
+  - FSTextView (1.8)
+  - HXPhotoPicker (3.3.2):
+    - HXPhotoPicker/Default (= 3.3.2)
+  - HXPhotoPicker/Default (3.3.2)
+  - IQKeyboardManagerSwift (6.5.11)
+  - JXPagingView (2.1.2):
+    - JXPagingView/Pager (= 2.1.2)
+    - JXPagingView/Paging (= 2.1.2)
+  - JXPagingView/Pager (2.1.2)
+  - JXPagingView/Paging (2.1.2)
+  - JXSegmentedView (1.3.0)
+  - Kingfisher (6.3.1)
+  - ModuleResource (0.0.1):
+    - R.swift
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - pop (1.0.12)
+  - PopMenu (2.4):
+    - pop
+    - XHRealTimeBlur
+  - R.swift (7.2.4)
+  - SLEmptyPage (1.1.5):
+    - SnapKit
+  - SLJGSDK (0.0.1):
+    - SLJGSDK/JGSDK (= 0.0.1)
+  - SLJGSDK/JGSDK (0.0.1)
+  - SnapKit (5.6.0)
+  - Starscream (4.0.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftDate (6.3.1)
+  - SwiftLint (0.50.3)
+  - SwiftyJSON (5.0.1)
+  - TagListView (1.4.1)
+  - UMCommon (7.3.8):
+    - UMDevice
+  - UMDevice (2.2.1)
+  - UMPush (4.0.4):
+    - UMCommon
+  - UMShare/Core (6.10.7):
+    - UMCommon
+  - UMShare/Social/ReducedWeChat (6.10.7):
+    - UMCommon
+    - UMShare/Core
+  - UMShare/Social/WeChat (6.10.7):
+    - UMCommon
+    - UMShare/Core
+    - UMShare/Social/ReducedWeChat
+  - UMShare/UI (6.10.7):
+    - UMCommon
+    - UMShare/Core
+  - XHRealTimeBlur (1.7)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - Aspects
+  - Bugly
+  - CTMediator
+  - FSPagerView
+  - FSTextView
+  - HXPhotoPicker
+  - IQKeyboardManagerSwift
+  - JXPagingView
+  - JXSegmentedView
+  - Kingfisher
+  - ModuleResource (from `https://github.com/2NU71AN9/SLModularisation-ModuleResource.git`)
+  - Moya
+  - PopMenu
+  - R.swift
+  - SLEmptyPage
+  - SLJGSDK (from `https://gitee.com/XsTlX/sljgsdk.git`)
+  - Starscream
+  - SVProgressHUD
+  - SwiftDate
+  - SwiftLint
+  - SwiftyJSON
+  - TagListView
+  - UMCommon
+  - UMPush
+  - UMShare/Social/WeChat
+  - UMShare/UI
+  - YYCache
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Aspects
+    - Bugly
+    - CTMediator
+    - FSPagerView
+    - FSTextView
+    - HXPhotoPicker
+    - IQKeyboardManagerSwift
+    - JXPagingView
+    - JXSegmentedView
+    - Kingfisher
+    - Moya
+    - pop
+    - PopMenu
+    - R.swift
+    - SLEmptyPage
+    - SnapKit
+    - Starscream
+    - SVProgressHUD
+    - SwiftDate
+    - SwiftLint
+    - SwiftyJSON
+    - TagListView
+    - UMCommon
+    - UMDevice
+    - UMPush
+    - UMShare
+    - XHRealTimeBlur
+    - YYCache
+
+EXTERNAL SOURCES:
+  ModuleResource:
+    :git: https://github.com/2NU71AN9/SLModularisation-ModuleResource.git
+  SLJGSDK:
+    :git: https://gitee.com/XsTlX/sljgsdk.git
+
+CHECKOUT OPTIONS:
+  ModuleResource:
+    :commit: f75479aa17d1be7f78d44e32f135c837509e5dbe
+    :git: https://github.com/2NU71AN9/SLModularisation-ModuleResource.git
+  SLJGSDK:
+    :commit: 8f54206079d9e9ee4b3aee194bb6fddd01c74ad1
+    :git: https://gitee.com/XsTlX/sljgsdk.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  Bugly: b8715e6ec4004b7f7fbffab0643ba80545aee3da
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  FSTextView: 9e2ca07bb6bb0fb7e77b49b2717adf81f3c620b5
+  HXPhotoPicker: 3d0526bc46cd2a4510a777d5f57dfad8e683fcfd
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  JXPagingView: 90924b364a2ff7e94db534fad1fa50925ff69ee4
+  JXSegmentedView: fec0d335355b6e019c494fe2e030bde8a36d2df6
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  ModuleResource: d5b0d991e6973f2fadaec61b34ec8327a0ca3c8c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  PopMenu: 26b97baeaf250070f4f61b93727ca86d127d7bc5
+  R.swift: 681bb9135f482e7a81d9d27445b837fef5467e11
+  SLEmptyPage: e373451d06b2dc160cf5830c5bbd438145fd620b
+  SLJGSDK: 9c5f399fd9ef873db018c6de39be2a8e043e2953
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
+  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+  UMCommon: fdb5bac9e7ec2aca4f9cfc0febf414b59ed302cb
+  UMDevice: 053478c4b4d7292f31f0a275c227d3c4007a5571
+  UMPush: 1496cebc2f50a1ff9ef74b69bf868c6c3960c97f
+  UMShare: 8a1030a9793941d1129a82d5bc02cd97df5ae210
+  XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: b9e165a71a203de539cb46412f6e55f4eb3d58f2
+
+COCOAPODS: 1.11.3
