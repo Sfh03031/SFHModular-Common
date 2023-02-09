@@ -42,7 +42,6 @@ Pod::Spec.new do |spec|
   
   spec.dependency 'Bugly'
 
-  spec.dependency 'SLJGSDK'
   spec.dependency 'ModuleResource'
   
   spec.pod_target_xcconfig = {

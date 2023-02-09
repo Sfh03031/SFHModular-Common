@@ -29,9 +29,6 @@ PODS:
   - R.swift (7.2.4)
   - SLEmptyPage (1.1.5):
     - SnapKit
-  - SLJGSDK (0.0.1):
-    - SLJGSDK/JGSDK (= 0.0.1)
-  - SLJGSDK/JGSDK (0.0.1)
   - SnapKit (5.6.0)
   - Starscream (4.0.4)
   - SVProgressHUD (2.2.5)
@@ -75,7 +72,6 @@ DEPENDENCIES:
   - PopMenu
   - R.swift
   - SLEmptyPage
-  - SLJGSDK (from `https://gitee.com/XsTlX/sljgsdk.git`)
   - Starscream
   - SVProgressHUD
   - SwiftDate
@@ -123,16 +119,11 @@ SPEC REPOS:
 EXTERNAL SOURCES:
   ModuleResource:
     :git: https://github.com/2NU71AN9/SLModularisation-ModuleResource.git
-  SLJGSDK:
-    :git: https://gitee.com/XsTlX/sljgsdk.git
 
 CHECKOUT OPTIONS:
   ModuleResource:
     :commit: f75479aa17d1be7f78d44e32f135c837509e5dbe
     :git: https://github.com/2NU71AN9/SLModularisation-ModuleResource.git
-  SLJGSDK:
-    :commit: 8f54206079d9e9ee4b3aee194bb6fddd01c74ad1
-    :git: https://gitee.com/XsTlX/sljgsdk.git
 
 SPEC CHECKSUMS:
   Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
@@ -152,7 +143,6 @@ SPEC CHECKSUMS:
   PopMenu: 26b97baeaf250070f4f61b93727ca86d127d7bc5
   R.swift: 681bb9135f482e7a81d9d27445b837fef5467e11
   SLEmptyPage: e373451d06b2dc160cf5830c5bbd438145fd620b
-  SLJGSDK: 9c5f399fd9ef873db018c6de39be2a8e043e2953
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
   Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
@@ -167,6 +157,6 @@ SPEC CHECKSUMS:
   XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
 
-PODFILE CHECKSUM: b9e165a71a203de539cb46412f6e55f4eb3d58f2
+PODFILE CHECKSUM: d93a5d0fa0207bf10735685f245973778d710878
 
 COCOAPODS: 1.11.3

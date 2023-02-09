@@ -1,6 +1,0 @@
-framework module SLJGSDK {
-  umbrella header "SLJGSDK.h"
-
-  export *
-  module * { export * }
-}

@@ -34,7 +34,7 @@ target 'ModularCommon' do
   
 #  pod 'SLJGSDK', :path => 'SLJGSDK'
 #  pod 'ModuleResource', :path => '../ModuleResource'
-  pod 'SLJGSDK', :git => 'https://gitee.com/XsTlX/sljgsdk.git'
+#  pod 'SLJGSDK', :git => 'https://gitee.com/XsTlX/sljgsdk.git'
   pod 'ModuleResource', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleResource.git'
   
   post_install do |installer|
